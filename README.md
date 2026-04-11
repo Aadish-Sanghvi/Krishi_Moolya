@@ -35,7 +35,7 @@ AIML-based Crop Price Prediction Model
 ![According to crops](https://raw.githubusercontent.com/Abhinav-gupta-123/Krishi-Moolya/main/sample%20images%20of%20projects/last%20year%20analysis%20of%20crops.png)
 
 ## Next 12 Months Analysis
-![Next 12 months analysis](https://raw.githubusercontent.com/Abhinav-gupta-123/Krishi-Moolya/main/sample%20images%20of%20projects/next%2012%20months%20analysis.png)
+![Next 12 months analysis](https://raw.githubusercontent.com/Aadish-Sanghvi/Krishi-Moolya/main/sample%20images%20of%20projects/next%2012%20months%20analysis.png)
 
 
 
@@ -190,8 +190,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact  
 Have questions or suggestions? Feel free to reach out!  
-- **Email:** abhinavg963@gmail.com  
-- **GitHub:** [Abhinav-gupta-123](https://github.com/Abhinav-gupta-123)  
+- **Email:** aadishsanghvi1008@gmail.com  
+- **GitHub:** [Aadish-Sanghvi](https://github.com/Aadish-Sanghvi)  
 
 Let’s build a brighter future for agriculture together! 🌱  
 >>>>>>> a3af869 (Initial commit)
